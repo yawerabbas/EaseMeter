@@ -1,6 +1,6 @@
 # EaseMeter: Measure Your Quality of Life
 
-![EaseMeter Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXUaTyfyD1sz_euum6tGzLgcgVBhVEazGB2Z2eCoIGWbQjM8-ybtWxPzGC970FOXFefM&usqp=CAU)
+![EaseMeter Logo]()
 
 ## Overview
 
