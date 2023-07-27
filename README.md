@@ -12,8 +12,6 @@ EaseMeter is a web application that conducts an "Ease of Living Index Survey" to
 
 - 📊 **Interactive Dashboard:** Visualize and explore survey results through an interactive and user-friendly dashboard.
 
-- 👤 **Anonymous Participation:** Personal information is kept anonymous to ensure privacy and encourage honest responses.
-
 - 🎚️ **Rating System:** Use sliders to rate each aspect on a scale of 0 to 10, indicating the level of satisfaction.
 
 - ⚠️ **Validation:** Get warnings for unanswered questions to ensure all sections are completed before submission.
@@ -50,7 +48,7 @@ Contributions to EaseMeter are welcome! If you have any suggestions, feature req
 
 ## License
 
-This project is licensed under the [MIT License](insert_license_url_here).
+This project is licensed under the [MIT License](https://github.com/yawerabbas/EaseMeter/blob/main/LICENSE).
 
 ## Contact
 
