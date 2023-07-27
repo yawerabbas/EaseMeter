@@ -20,7 +20,7 @@ EaseMeter is a web application that conducts an "Ease of Living Index Survey" to
 
 ## How to Use
 
-1. Visit [EaseMeter](insert_app_url_here) and create an account or log in if you already have one.
+1. Visit [EaseMeter](insert_app_url_here) 
 
 2. Click on the "Start Survey" button to begin the "Ease of Living Index Survey."
 
