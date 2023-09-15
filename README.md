@@ -1,6 +1,6 @@
 # EaseMeter: Measure Your Quality of Life
 
-![EaseMeter Logo]()
+![EaseMeter Logo](https://github.com/yawerabbas/EaseMeter/blob/main/EaseMeter.png)
 
 ## Overview
 
