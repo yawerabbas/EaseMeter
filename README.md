@@ -34,6 +34,12 @@ EaseMeter is a web application that conducts an "Ease of Living Index Survey" to
 
 7. Interact with the dashboard to gain insights into different city metrics and compare results.
 
+   If you see the below message, click on `Yes, get this app back up!` button
+![13](https://github.com/adarshkuthuru/Motor-Vehicle-Collision-Analysis-with-Streamlit-App/blob/main/images/Error.jpg)
+
+Enjoy the App!!!
+
+
 ## Technologies Used
 
 - Python
